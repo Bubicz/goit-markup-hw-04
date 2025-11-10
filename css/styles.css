@@ -359,7 +359,8 @@ img {
 .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
-
+}
+.footer-logo .footer-studio {
   color: #f4f4fd;
 }
 .footer-text {
