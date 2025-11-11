@@ -412,8 +412,6 @@ img {
   margin-right: 120px;
 }
 .social-media-list {
-  display: flex;
-  align-items: baseline;
   gap: 16px;
 }
 .social-media-item {
