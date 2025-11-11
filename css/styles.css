@@ -381,14 +381,16 @@ img {
 }
 /* #endregion portfolio 4 */
 /* #region footer */
+.page-footer {
+  background-color: #2e2f42;
+  padding: 100px 0;
+}
 .page-footer .container {
   display: flex;
   align-items: baseline;
-  background-color: #2e2f42;
-  padding: 100px 0;
-  max-width: 1440px;
-  margin-left: auto;
-  margin-right: auto;
+}
+.logo-box {
+  margin-right: 120px;
 }
 .footer-logo {
   display: inline-block;
@@ -404,10 +406,7 @@ img {
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
-.logo-box {
-  margin-left: 156px;
-  margin-right: 120px;
-}
+
 .social-footer {
 }
 .social-media-title {
