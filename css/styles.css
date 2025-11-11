@@ -379,6 +379,8 @@ img {
 /* #endregion portfolio 4 */
 /* #region footer */
 .page-footer {
+  display: flex;
+  align-items: baseline;
   background-color: #2e2f42;
   padding: 100px 0;
 }
@@ -398,7 +400,7 @@ img {
 }
 .logo-text {
 }
-.social {
+.social-footer {
 }
 .social-media-title {
   font-weight: 500;
